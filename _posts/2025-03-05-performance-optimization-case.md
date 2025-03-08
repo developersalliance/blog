@@ -3,7 +3,7 @@ layout: post
 title: "Performance Degradation in Adobe Commerce: How Communication and Practical Solutions Saved the Day"
 author: David
 categories: [Magento, Performance, Debugging, Third-party Extensions]
-image: assets/images/magento-profiler.png
+image: assets/images/slow.jpg
 featured: true
 hidden: true
 ---
@@ -24,6 +24,9 @@ bin/magento dev:profiler:enable
 ### Better Approach: Using CSV Output
 
 To get more detailed insights, I recommend using the CSV output option. The CSV format provides a much clearer overview of the performance metrics, making it easier to analyze and compare different processes. With the CSV file, I was able to pinpoint the exact issue causing the slowdown—something that wasn’t as apparent in the HTML view.
+The profiler output will be available in the file:
+
+`/var/log/profiler.csv`
 
 ```bash
 bin/magento dev:profiler:enable csv
