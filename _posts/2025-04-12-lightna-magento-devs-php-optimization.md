@@ -5,6 +5,7 @@ date: 2025-04-12
 author: david
 tags: [magento, php, lightna, performance, headless, hyvää, ecommerce]
 featured: true
+image: /assets/images/lightna-og.png
 ---
 
 I’m really intrigued by **Lightna**, a PHP-based engine developed by Magento experts. It’s built to supercharge any PHP application, and because it’s created by Magento developers, it follows similar architectural principles and development practices as Magento—with tailored integration to boot.
