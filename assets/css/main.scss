@@ -20,5 +20,17 @@
 	text-transform: uppercase;
 	font-size: 11px;
 	letter-spacing: 1px;
-	color: rgb(0, 0, 0);
+	color: rgba(0, 0, 0, 1);
+}
+
+mainheading h1.sitetitle {
+	font-family: 'Titillium Web','Raleway',"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.mainheading h1.sitetitle .red {
+	color: #e13d3a;
+}
+
+.section-title h2, .listfeaturedtag {
+	border-bottom: 1px solid rgba(225, 61, 58, .125);
 }
