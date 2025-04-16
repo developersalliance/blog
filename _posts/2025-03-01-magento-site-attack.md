@@ -5,7 +5,7 @@ author: Giga
 categories: [Magento, Hacking, Debugging, patch]
 image: assets/images/blog/Magento-hacked-image-2.png
 featured: true
-hidden: true
+hidden: false
 ---
 
 Magento 2 Checkout Bug and CMS Block Attack

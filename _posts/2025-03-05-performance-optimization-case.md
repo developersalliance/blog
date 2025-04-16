@@ -5,7 +5,7 @@ author: David
 categories: [Magento, Performance, Debugging, Third-party Extensions]
 image: assets/images/slow.jpg
 featured: true
-hidden: true
+hidden: false
 ---
 Recently, I encountered a challenging performance issue with one of my Adobe Commerce (Magento) clients. They were experiencing significant slowdowns due to a third-party extension for their megamenu, which came with a variety of fancy features like specific content per customer group and per page. While these features were great in theory, they turned out to be more of a hindrance than a help in this particular case.
 
