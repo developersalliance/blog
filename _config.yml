@@ -20,6 +20,20 @@ authors:
     email: david@developers-alliance.com
     web: https://www.linkedin.com/in/david-tabatadze-981055213/
     description: "Magento & Adobe Commerce Master Architect | Full-Stack Web Developer | Passionate about building high-performance eCommerce solutions."
+  Giga:
+    name: Giga
+    display_name: Giga
+    gravatar: sensationallystrangereacd9262bf
+    email: giga.t@developers-alliance.com
+    web: https://www.developers-alliance.com
+    description: "Magento Commerce Developer | Full-Stack Web Developer Magento Trainer"
+  Oskars:
+    name: Oskars
+    display_name: Oskars
+    gravatar: exuberantwidgeteec9a70ff6
+    email: oskars@developers-alliance.com
+    web: https://www.linkedin.com/in/oskars-tuns/
+    description: "Magento Commerce Architect | Full-Stack Web Developer & CEO"
 
 # Plugins
 plugins:
