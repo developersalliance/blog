@@ -9,6 +9,7 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <p>We’re an agency based in Georgia 🇬🇪, handling e-commerce, web, and mobile app development—Magento, Adobe Commerce, Shopify, and more. Our blog breaks down the code, tools, and best practices we use for merchant and agency projects, plus some trends and industry bits worth a look.</p>
+<p><a href="https://developers-alliance.com">Check our website</a></p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/about-banner.jpg" alt="About Us" /></p>
 

@@ -2,14 +2,23 @@
 # Add a comment to make this file sass-y.
 # Change this file for any custom CSS.
 ---
+// Import partials from `sass_dir` (defaults to `_sass`)
+@use "syntax";
+@use "starsnonscss";
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
-;
+.navbar {
+	border-bottom: 1px solid #e13d3a;
+}
+
+.navbar-nav .nav-link {
+	font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-size: 11px;
+	letter-spacing: 1px;
+	color: rgb(0, 0, 0);
+}
