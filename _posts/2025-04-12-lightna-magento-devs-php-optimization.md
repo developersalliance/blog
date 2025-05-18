@@ -9,7 +9,7 @@ image: assets/images/lightna-og.png
 ---
 
 
-**Lightna** is a new PHP engine built by Magento veterans, designed to accelerate any PHP-based application. It follows Magento’s architectural patterns and offers direct integration, making it feel immediately familiar to anyone in the Magento ecosystem.
+[Lightna](https://lightna.com/) is a new PHP engine built by Magento veterans, designed to accelerate any PHP-based application. It follows Magento’s architectural patterns and offers direct integration, making it feel immediately familiar to anyone in the Magento ecosystem.
 
 Early benchmarks show render times between **2 to 12 milliseconds**. That alone sets it apart.
 
