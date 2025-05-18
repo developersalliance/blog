@@ -79,4 +79,5 @@ For merchants, **Lightna Lane** offers a low-risk path to better performance. Fo
 Lightna may not be the answer for every use case, It’s got to prove itself beyond my hype, maybe it won’t pan out as big as I hope.
 
 Still, I love that Magento has so many flavors now: Hyvä, Breeze, PWAs, Mage-OS, Lightna. Everyone’s working on its future, and there’s something for every agency and merchant to choose.
+
 Let's see what the future holds for us.
