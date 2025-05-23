@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When a Magento Import Almost Nuked a Product Catalog"
+title: "When a Magento Import Nuked a Product Catalog"
 date: 2025-05-23
 author: David
 tags: [magento, import, patch]
