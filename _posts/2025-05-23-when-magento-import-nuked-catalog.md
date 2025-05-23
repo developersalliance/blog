@@ -20,7 +20,7 @@ I also considered putting the snapshot's database on a local instance of the pro
 
 Then came the post-mortem.
 
-The import history in Magento told an odd story. The most recent processed file was clean and nothing in it could have triggered this. But there was another file, one that had only been **validated**, not **imported**. This file *did* contain enough data to wipe out the catalog. But Magento shouldn't have processed a file tha was only validated, right?
+The import history in Magento told an odd story. The most recent processed file was clean and nothing in it could have triggered this. But there was another file, one that had only been **validated**, not **imported**. This file *did* contain enough data to wipe out the catalog. But Magento shouldn't have processed a file that was only validated, right?
 
 Wrong.
 
