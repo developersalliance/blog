@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "When a Magento Import Almost Nuked a Product Catalog"
-date: 2025-05-24  # Update with current date
-categories: magento ecommerce debugging
+date: 2025-05-24
+author: David
+tags: [magento, import, patch]
+featured: true
+image: assets/images/nuke.jpg
 ---
 
 I got the message on a regular weekday: "We lost almost the entire product catalog, around 10,000 products gone, only 100 left." The client had no idea what happened. They suspected something went wrong after running a product import, but the CSV file in question looked harmless, it had just a few items. It shouldn't have caused any damage. Yet, the damage was done.
